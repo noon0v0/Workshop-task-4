@@ -1,7 +1,7 @@
 # Workshop 4：Interactivity
 
 ## URL:
-https://noon0v0.github.io/Workshop_4/
+https://noon0v0.github.io/Workshop-task-4/
 
 
 ## Tasks:
